@@ -1,0 +1,2 @@
+C:\Users\Ayub\source\repos\my projects\starting_SMFL\starting_SFML\Debug\starting_SFML.exe
+C:\Users\Ayub\source\repos\my projects\starting_SMFL\starting_SFML\Debug\starting_SFML.pdb
